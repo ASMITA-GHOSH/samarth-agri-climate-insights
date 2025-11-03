@@ -1,0 +1,17 @@
+# Core Data Science
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.2
+plotly==5.23.0
+
+# Web App
+streamlit==1.38.0
+
+# Database + Utilities
+sqlalchemy==2.0.25
+joblib==1.4.2
+
+# For Notebook Compatibility (if using Colab)
+ipykernel==6.29.5
